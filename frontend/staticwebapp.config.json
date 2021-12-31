@@ -2,7 +2,7 @@
     "routes": [
         {
             "route": "/admin/*",
-            "allowedRoles": [ "admin" ]
+            "allowedRoles": [ "reptar" ]
         },
         {
             "route": "/authenticated/*",
